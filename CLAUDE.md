@@ -5,7 +5,7 @@ This is an AI agent skill for generating videos using ByteDance's Seedance model
 ## API Details
 - Endpoint: POST https://api.atlascloud.ai/v1/prediction/{prediction_id}
 - Auth: Bearer token via ATLAS_API_KEY
-- Current model: Seedance v1.5 Pro ($0.222/s)
+- Current model: Seedance v1.5 Pro ($0.044/s)
 - Coming soon: Seedance 2.0
 
 ## Usage

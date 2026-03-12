@@ -8,7 +8,7 @@
 
 **An open AI agent skill for Seedance 2.0 video generation. Works with Claude Code, Cursor, Codex, Copilot, Gemini CLI, Windsurf, Kiro, and 15+ AI coding agents.**
 
-> Currently uses **Seedance v1.5 Pro** ($0.222/video) — automatically upgrades to **Seedance 2.0** when the API becomes available. No config changes needed.
+> Currently uses **Seedance v1.5 Pro** (from $0.222/s) — automatically upgrades to **Seedance 2.0** when the API becomes available. No config changes needed.
 
 ---
 
@@ -413,10 +413,12 @@ console.log("Video URL:", videoUrl);
 
 | Feature | Price |
 |---------|-------|
-| Text-to-Video | **$0.222/video** |
-| Image-to-Video | **$0.222/video** |
+| Text-to-Video | **from $0.222/s** |
+| Image-to-Video | **from $0.222/s** |
 | Any duration (5s/10s) | Same price |
 | Any aspect ratio | Same price |
+
+*Prices shown are starting prices. Higher resolution or longer duration may cost more.*
 
 ### Coming: Seedance 2.0
 
@@ -552,7 +554,7 @@ export ATLAS_API_KEY=your_key_here
 
 | Feature | Seedance (via Atlas Cloud) | Runway API | Pika API |
 |---------|---------------------------|------------|----------|
-| Price per video | **$0.222** | ~$0.50+ | ~$0.40+ |
+| Price per video | **from $0.222/s** | ~$0.50+ | ~$0.40+ |
 | Agent skill support | **Yes (15+ platforms)** | No | No |
 | Image-to-Video | **Yes** | Yes | Yes |
 | Text-to-Video | **Yes** | Yes | Yes |

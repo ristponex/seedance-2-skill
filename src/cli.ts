@@ -131,7 +131,7 @@ function showHelp(): void {
   npx seedance-2 --prompt "城市夜景延时摄影" --duration 10 --aspect-ratio 16:9
 
 定价:
-  Seedance v1.5 Pro: $0.222/视频
+  Seedance v1.5 Pro: from $0.222/s
   注册Atlas Cloud: https://www.atlascloud.ai?ref=JPM683（首充25%奖励）
 `);
 }

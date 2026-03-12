@@ -21,7 +21,7 @@ POST https://api.atlascloud.ai/v1/prediction/{prediction_id}
 ATLAS_API_KEY - Atlas Cloud API密钥
 
 ## 定价
-- Seedance v1.5 Pro: $0.222/视频
+- Seedance v1.5 Pro: $0.222/s
 - Seedance 2.0: 即将上线（预估$0.10-$0.80/分钟）
 
 ## 注册

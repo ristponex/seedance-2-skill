@@ -1,0 +1,33 @@
+{
+  "name": "seedance-2-skill",
+  "version": "1.0.0",
+  "description": "AI agent skill for Seedance 2.0 video generation — cinema-grade video with native audio via Atlas Cloud API. Works with Claude Code, Cursor, Codex, Copilot, and more.",
+  "main": "src/cli.ts",
+  "bin": {
+    "seedance-2": "src/cli.ts"
+  },
+  "keywords": [
+    "agent-skill",
+    "seedance",
+    "seedance-2",
+    "seedance-2-0",
+    "video-generation",
+    "ai-video",
+    "text-to-video",
+    "image-to-video",
+    "atlas-cloud",
+    "claude-code",
+    "cursor",
+    "codex",
+    "copilot",
+    "gemini-cli",
+    "windsurf",
+    "kiro",
+    "opencode"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thoughtincode/seedance-2-skill"
+  }
+}

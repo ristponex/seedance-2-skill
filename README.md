@@ -42,7 +42,7 @@ npx skills add thoughtincode/seedance-2-skill
 export ATLAS_API_KEY=your_api_key_here
 ```
 
-Get your API key at [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) — **25% bonus on first deposit**.
+Get your API key at [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=seedance-2-skill) — **25% bonus on first deposit**.
 
 ### Generate Your First Video
 
@@ -433,7 +433,7 @@ console.log("Video URL:", videoUrl);
 
 ### Get Started
 
-Sign up at **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** and get a **25% bonus on your first deposit**.
+Sign up at **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=seedance-2-skill)** and get a **25% bonus on your first deposit**.
 
 | Deposit | Bonus | Total Credits |
 |---------|-------|---------------|
@@ -453,7 +453,7 @@ Sign up at **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** and get a **2
 
 ### Setup
 
-1. Create an account at [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)
+1. Create an account at [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=seedance-2-skill)
 2. Navigate to API Keys in your dashboard
 3. Create a new API key
 4. Set the environment variable:
@@ -530,7 +530,7 @@ export ATLAS_API_KEY=your_key_here
 ```
 
 **"Insufficient credits"**
-- Check your balance at [Atlas Cloud Dashboard](https://www.atlascloud.ai?ref=JPM683)
+- Check your balance at [Atlas Cloud Dashboard](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=seedance-2-skill)
 - Top up your credits (25% bonus on first deposit)
 
 **"Generation failed"**
@@ -546,7 +546,7 @@ export ATLAS_API_KEY=your_key_here
 ### Getting Help
 
 - [GitHub Issues](https://github.com/thoughtincode/seedance-2-skill/issues)
-- [Atlas Cloud Documentation](https://www.atlascloud.ai?ref=JPM683)
+- [Atlas Cloud Documentation](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=seedance-2-skill)
 
 ---
 
@@ -570,7 +570,7 @@ export ATLAS_API_KEY=your_key_here
 
 - **Atlas Cloud** — Trusted API platform for AI model access
 - **ByteDance Seedance** — Production-grade video model from the makers of TikTok
-- **25% First Deposit Bonus** — [Sign up now](https://www.atlascloud.ai?ref=JPM683)
+- **25% First Deposit Bonus** — [Sign up now](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=seedance-2-skill)
 - **No Subscriptions** — Pay only for what you use
 - **MIT Licensed** — Open source, use it anywhere
 
@@ -612,7 +612,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Links
 
-- **Atlas Cloud API**: [https://www.atlascloud.ai?ref=JPM683](https://www.atlascloud.ai?ref=JPM683)
+- **Atlas Cloud API**: [https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=seedance-2-skill](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=seedance-2-skill)
 - **GitHub**: [https://github.com/thoughtincode/seedance-2-skill](https://github.com/thoughtincode/seedance-2-skill)
 - **Seedance by ByteDance**: World-class AI video generation model
 
@@ -620,7 +620,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <p align="center">
   <b>🎬 Start generating cinema-grade AI videos today</b><br>
-  <a href="https://www.atlascloud.ai?ref=JPM683">Get your Atlas Cloud API key</a> — 25% bonus on first deposit
+  <a href="https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=seedance-2-skill">Get your Atlas Cloud API key</a> — 25% bonus on first deposit
 </p>
 
 <p align="center">

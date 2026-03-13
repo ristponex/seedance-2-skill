@@ -25,4 +25,4 @@ ATLAS_API_KEY - Atlas Cloud API密钥
 - Seedance 2.0: 即将上线（预估$0.10-$0.80/分钟）
 
 ## 注册
-https://www.atlascloud.ai?ref=JPM683 — 首充25%奖励
+https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=seedance-2-skill — 首充25%奖励
